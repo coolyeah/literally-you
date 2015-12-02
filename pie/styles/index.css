@@ -1,0 +1,28 @@
+body {
+	background-color: #333333;
+	color: #DDDDDD;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+}
+
+.clear {
+	clear: both;
+}
+
+h1 {
+	text-align: center;
+}
+
+#grid {
+	width: 100%;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+}
+
+.grid-element {
+	width: 33%;
+	height: 180px;
+	float: left;
+}
